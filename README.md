@@ -1,5 +1,10 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 Currently building  <br>- Reinforcement learning systems in Rust for browser-based games (Hotlap)  <br>- A lightweight inference engine from scratch  <br><br>👯 Open to collaborating on  <br>- AI/ML systems with real-world impact  <br>- Low-level or performance-focused Rust projects  <br><br>🌱 Currently diving into  <br>- Low-level systems development using Rust  <br><br>💬 Ask me about  <br>- Agentic AI and autonomous systems  <br><br>⚡ Fun fact  <br>- Balancing building in tech with launching a techwear brand 🚀
+## 👨‍💻 About Me<br><br>
+🔭 Currently building  <br>- Reinforcement learning systems in Rust for browser-based games (Hotlap)  <br>- A lightweight inference engine from scratch  <br><br>
+👯 Open to collaborating on  <br>- AI/ML systems with real-world impact  <br>- Low-level or performance-focused Rust projects  <br><br>
+🌱 Currently diving into  <br>- Low-level systems development using Rust  <br><br>
+💬 Ask me about  <br>- Agentic AI and autonomous systems  <br><br>
+⚡ Fun fact  <br>- I play the keyboard and sing!
 
 
 ## 🌐 Socials:
