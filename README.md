@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 Currently building  
+### 🔭 Currently building
 - Reinforcement learning systems in Rust for browser-based games (Hotlap)
 - A lightweight inference engine from scratch
-👯 Open to collaborating on
+### 👯 Open to collaborating on
 - AI/ML systems with real-world impact
 - Low-level or performance-focused Rust projects
-🌱 Currently diving into
+### 🌱 Currently diving into
 - Low-level systems development using Rust
-💬 Ask me about
+### 💬 Ask me about
 - Agentic AI and autonomous systems
-⚡ Fun fact
+### ⚡ Fun fact
 - I play the keyboard and sing!
 
 
